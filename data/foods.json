@@ -1,0 +1,25 @@
+[
+  {
+    "id": "123",
+    "title": "apple",
+    "description": "fruit",
+    "estimated_time": 5,
+    "difficulty": "easy"
+  },
+  {
+    "id": "cccf3f68-7c7c-4df8-8d4b-ac777eb15002",
+    "title": "string",
+    "category": "string",
+    "description": "string",
+    "estimated_time": 0,
+    "difficulty": "string"
+  },
+  {
+    "id": "991632b7-cf91-4798-8c1e-cf2e814da910",
+    "title": "string",
+    "category": "string",
+    "description": "string",
+    "estimated_time": 0,
+    "difficulty": "string"
+  }
+]
